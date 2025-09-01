@@ -1,27 +1,36 @@
 Hotel Management System
+A modern mobile application for hotel management built with React Native and Expo. This system provides a comprehensive solution for managing hotel operations, including room bookings, guest information, and staff management.
 
-A Hotel Management System designed to streamline daily operations such as room booking, check-in/check-out, guest management, billing, and reporting. The system improves efficiency, reduces manual workload, and provides easy administration.
+Features
+Room Management: View and manage hotel room availability and status
 
- Features
+Booking System: Handle reservations and check-ins/check-outs
 
-Room booking and availability management
+Guest Profiles: Maintain detailed guest information and preferences
 
-Guest check-in and check-out process
+Staff Management: Administer staff accounts and permissions
 
-Billing and invoice generation
+Real-time Updates: Live status updates for room occupancy
 
-Staff and user management
+Cross-platform: Works on iOS, Android, and web
 
-Reporting and analytics
+Tech Stack
+Frontend: React Native
 
-Secure login system
+Framework: Expo SDK 51
 
- Technologies Used
+Navigation: React Navigation (Native Stack, Drawer)
 
-Frontend: HTML, CSS, JavaScript (or React if included)
+UI Library: React Native Paper
 
-Backend: PHP / Node.js (depending on your uploaded code)
+Icons: Expo Vector Icons
 
-Database: MySQL
+Build Tool: Babel
 
-Others: Bootstrap / Tailwind CSS (if used for styling)
+Getting Started
+Prerequisites
+Node.js (version 14 or higher)
+
+npm or yarn
+
+Expo CLI (optional for local development
